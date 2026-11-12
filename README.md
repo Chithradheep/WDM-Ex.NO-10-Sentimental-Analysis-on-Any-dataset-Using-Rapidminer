@@ -1,6 +1,6 @@
 # WDM-Ex.NO-10-Sentimental-Analysis-on-Any-dataset-Using-Rapidminer
 
-## NAME: Gowtham S
+## NAME: Chithradheep R
 ## Reg No: 2305002003
 
 **AIM:**<br>
